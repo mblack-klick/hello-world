@@ -1,0 +1,19 @@
+--- AWS Shared DB Accounts ---
+
+Username				Password
+---------------------------------------------------------
+mblack_astellas_commercial_dev		Ff5m4Pla2I4	
+mblack_astellas_commercial_staging
+	14m8pYHv)riz
+mblack_astellas_commercial_prod
+		u81qp5F6--0
+mblack_taiho_dev
+			RF5H|07P2bT
+mblack_taiho_prod
+			GlyR72ncF61Z	
+mblack_indivior_dev			HNUD71dbp_t8
+		
+mblack_indivior_prod			bD4-B1CR5U6n
+---------------------------------------------------------
+
+Testing
